@@ -1,3 +1,3 @@
-# c-malloc-free
+# malloc-free
 
-my recreation of the malloc() and free() functions in c using pointer arithmetic
+My recreation of the malloc() and free() functions in C using pointer arithmetic. This was for my Operating Systems class.
